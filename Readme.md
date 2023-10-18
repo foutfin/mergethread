@@ -4,8 +4,8 @@
 
 <img src="./bar.png" />
 
-Note :- time is in milliseconds -> Y Axis
-        element size  -> X Axis
+Note :- Y-axis(time in milliseconds) , X-axis(array size)
+
 
 #### Build
 

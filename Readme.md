@@ -2,7 +2,7 @@
 
 #### Graph For Element size = 100000 
 
-<iframe src="./bar.html" />
+<img src="./bar.png" />
 
 #### Build
 

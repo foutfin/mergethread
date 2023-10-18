@@ -4,6 +4,9 @@
 
 <img src="./bar.png" />
 
+Note :- time is in milliseconds -> Y Axis
+        element size  -> X Axis
+
 #### Build
 
 ```bash
